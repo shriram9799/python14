@@ -6,3 +6,9 @@ print(c)
 #code for substraction
 c=a-b
 print(c)
+
+# division code
+a =20
+b = 20
+c= a/b
+print(c)
